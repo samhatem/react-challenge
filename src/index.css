@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+display {
+  width: 80vw;
+  margin: auto;
+  padding: 10vh 0;
+}
+
+message {
+  border: 1px solid #252424;
+  padding: 10px;
+}
+

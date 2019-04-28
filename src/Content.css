@@ -1,0 +1,35 @@
+
+
+.content {
+  display: grid;
+  grid-template-rows: 30% 70%;
+  padding-left: 15px;
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: 60% 20% 20%;
+}
+
+.source {
+  display: inline-block;
+}
+
+.time {
+  display: inline-block;
+  padding-right: 0.8em;
+}
+
+.star {
+  margin: 1em;
+  height: 2.5em;
+  width: 15em;
+}
+
+.trash {
+  margin: 1em;
+  height: 2.5em;
+  width: 15em;
+}
+
+
